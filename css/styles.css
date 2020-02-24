@@ -1,0 +1,23 @@
+body{
+  background-color: #E0EBE8;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #3E9C87;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1{
+  color: #3E9C87;
+}
+
+h3{
+  color: #4AB19A;
+}
+
+/* NOTE:
+SEANHALPIN VERDE CLARO   #4AB19A
+           VERDE OSCURO  #3E9C87*/
