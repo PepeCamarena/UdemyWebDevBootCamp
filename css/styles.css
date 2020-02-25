@@ -1,3 +1,5 @@
+/*----------------------TAG SELECTORS------------------------*/
+
 body{
   background-color: #E0EBE8;
 }
@@ -18,6 +20,30 @@ h3{
   color: #4AB19A;
 }
 
+img:hover{
+  background-color: gold;
+}
+
 /* NOTE:
-SEANHALPIN VERDE CLARO   #4AB19A
-           VERDE OSCURO  #3E9C87*/
+http://seanhalpin.io/
+VERDE CLARO   #4AB19A
+VERDE OSCURO  #3E9C87 */
+
+/*-----------------------CLASS SELECTORS------------------------*/
+/* No es único, se puede usar varias veces */
+.bacon{
+  background-color: red;
+}
+
+.broccoli{
+  background-color: green;
+}
+
+.circular{
+  border-radius: 100%;
+}
+/*-----------------------IDS SELECTORS------------------------*/
+/* Es único, sólo se puede usar una vez*/
+#heading{
+  color: blue;
+}
